@@ -10,4 +10,5 @@ sbt \
     library/publishSigned \
     mapper-generator-core/publishSigned \
     streams/publishSigned \
-    syntax-support-macro/publishSigned
+    syntax-support-macro/publishSigned \1
+    test/publishSigned
